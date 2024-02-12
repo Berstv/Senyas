@@ -15,6 +15,7 @@
  - Deaf/mute user connects their Bluetooth device to the Senyas app
  - First Paired the Senyas Device in Android Settings
  - You have to Internet Connection to work Speech-To-text
+ - On Android 12 and higher, users must click "Allow" on the Bluetooth permissions pop-up for the app to work properly.
  - Hearing user long presses the mic button when speaking to convert speech-to-text
  - Deaf User will sign language to translate text-to-speech into a app
 - providing real-time speech-to-text and text-to-speech translation, Senyas enables natural conversation between individuals of differing abilities. The app promotes inclusivity and deeper human connection.
