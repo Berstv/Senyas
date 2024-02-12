@@ -1,4 +1,6 @@
 ![Logo](https://github.com/Berstv/Senyas/assets/93643165/1209dfad-b089-4803-82ac-25d948aed88c)
+
+# Version Code 322 , Version Name 1.5C.0 Fenix
 # SENYAS: Filipino Sign Language Translation Device and System for Two-Way Communication 
  - Senyas is an app that enables two-way communication between deaf/mute individuals and hearing individuals. It allows for real-time translation of speech and text to empower inclusive communication.
 
