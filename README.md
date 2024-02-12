@@ -12,9 +12,10 @@
 # How it Works
  - Download the Senyas app on their in this link https://drive.google.com/file/d/1SVT3HJ7V57p506tlHLplyPIqHwojp9Ij/view?usp=sharing (Need permission to the owner)
  - Deaf/mute user connects their Bluetooth device to the Senyas app
- - Hearing user long presses the mic button when speaking to convert speech to text
- - Sign language is translated to text and then converted to speech using the app's text-to-speech feature
- - Deaf user types a response which is relayed back to the hearing user's smartphone as text
+ - First Paired the Senyas Device in Android Settings
+ - You have to Internet Connection to work Speech-To-text
+ - Hearing user long presses the mic button when speaking to convert speech-to-text
+ - Deaf User will sign language to translate text-to-speech into a app
 - providing real-time speech-to-text and text-to-speech translation, Senyas enables natural conversation between individuals of differing abilities. The app promotes inclusivity and deeper human connection.
 
 # About Us
