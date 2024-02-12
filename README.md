@@ -18,7 +18,7 @@
  - On Android 12 and higher, users must click "Allow" on the Bluetooth permissions pop-up for the app to work properly.
  - Hearing user long presses the mic button when speaking to convert speech-to-text
  - Deaf User will sign language to translate text-to-speech into a app
-- providing real-time speech-to-text and text-to-speech translation, Senyas enables natural conversation between individuals of differing abilities. The app promotes inclusivity and deeper human connection.
+### Providing real-time speech-to-text and text-to-speech translation, Senyas enables natural conversation between individuals of differing abilities. The app promotes inclusivity and deeper human connection.
 
 # About Us
  - Senyas was developed by Yboa, Berio, Obong, Bacsal to improve access and engagement between the deaf/mute and hearing communities. Our goal is to Two-way communication the normal person and Deaf-Mute or Deaf Person.
