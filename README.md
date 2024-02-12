@@ -9,7 +9,7 @@
   - Enables seamless two-way conversation
   - Promotes inclusivity by breaking down communication barriers
 # How it Works
- - Download the Senyas app on their in this link https://drive.google.com/file/d/1SVT3HJ7V57p506tlHLplyPIqHwojp9Ij/view?usp=sharing
+ - Download the Senyas app on their in this link https://drive.google.com/file/d/1SVT3HJ7V57p506tlHLplyPIqHwojp9Ij/view?usp=sharing (Need permission to the owner)
  - Deaf/mute user connects their Bluetooth device to the Senyas app
  - Hearing user long presses the mic button when speaking to convert speech to text
  - Sign language is translated to text and then converted to speech using the app's text-to-speech feature
