@@ -1,5 +1,5 @@
-Senyas
-Senyas is an app that enables two-way communication between deaf/mute individuals and hearing individuals. It allows for real-time translation of speech and text to empower inclusive communication.
+# Senyas
+ - Senyas is an app that enables two-way communication between deaf/mute individuals and hearing individuals. It allows for real-time translation of speech and text to empower inclusive communication.
 
 Key Features
   Speech-to-text translation for hearing users
