@@ -14,7 +14,7 @@
  - Hearing user long presses the mic button when speaking to convert speech to text
  - Sign language is translated to text and then converted to speech using the app's text-to-speech feature
  - Deaf user types a response which is relayed back to the hearing user's smartphone as text
-# providing real-time speech-to-text and text-to-speech translation, Senyas enables natural conversation between individuals of differing abilities. The app promotes inclusivity and deeper human connection.
+- providing real-time speech-to-text and text-to-speech translation, Senyas enables natural conversation between individuals of differing abilities. The app promotes inclusivity and deeper human connection.
 
 # About Us
  - Senyas was developed by Yboa, Berio, Obong, Bacsal to improve access and engagement between the deaf/mute and hearing communities. Our goal is to Two-way communication the normal person and Deaf-Mute or Deaf Persons
